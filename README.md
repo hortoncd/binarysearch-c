@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/hortoncd/c-binarysearch.svg?style=svg)](https://circleci.com/gh/hortoncd/c-binarysearch)
+
 Description
 ===========
 
