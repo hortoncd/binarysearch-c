@@ -10,6 +10,13 @@ Testing
 
 Relies on the [Unity](https://github.com/ThrowTheSwitch/Unity) testing framework for C
 
+If unity is not installed and needs to be build from a specific source,
+set the `UNITY_SRC` environment variable and the the make will build it
+for the tests.
+`export UNITY_SRC=/my/source/unity/src`
+
+Then run `make test` to execute tests.
+
 License and Author
 ==================
 
